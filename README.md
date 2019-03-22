@@ -65,16 +65,6 @@ This chart shows the maximum river levels per day.
 
 #### Tame Mossley -  Maximum Levels per day, 330cm = Flood risk  
 
-![alt tag](charts/TameMaxLevelPDay.png)  
-
-
-#### Tame Mossley - Change in Average river Levels per day.  
-
-![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
-
-
-#### Tame Mossley - Maximum river Levels per day.  
-
 ![alt tag](charts/TameMossleyMaxLvlpDay.png)  
 
 
@@ -82,6 +72,9 @@ This chart shows the maximum river levels per day.
 
 ![alt tag](charts/TameMossleyMaxLvlpDay-week.png)  
 
+### Tame Mossley - Change in Average river Levels per day.  
+
+![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
 
 
 #### North West England Rainfall level (mm) per Month.   
