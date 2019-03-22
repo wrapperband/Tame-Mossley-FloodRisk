@@ -5,7 +5,7 @@
 
 ### Summery
 
-The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 300cm to indicate flood danger.
+The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 330cm to indicate flood danger.
 
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
@@ -63,7 +63,7 @@ Data could also be cross related to historical developments levels in the area, 
 This chart shows the maximum river levels per day.  
 
 
-#### Tame Mossley -  Maximum Levels per day, 300cm = Flood risk  
+#### Tame Mossley -  Maximum Levels per day, 330cm = Flood risk  
 
 ![alt tag](charts/TameMaxLevelPDay.png)  
 
@@ -71,6 +71,17 @@ This chart shows the maximum river levels per day.
 #### Tame Mossley - Change in Average river Levels per day.  
 
 ![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
+
+
+#### Tame Mossley - Maximum river Levels per day.  
+
+![alt tag](charts/TameMossleyMaxLvlpDay.png)  
+
+
+#### Tame Mossley - Maximume river Levels per day - per week.  
+
+![alt tag](charts/TameMossleyMaxLvlpDay-week.png)  
+
 
 
 #### North West England Rainfall level (mm) per Month.   
