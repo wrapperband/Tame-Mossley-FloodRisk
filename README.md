@@ -68,13 +68,13 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/TameMossleyMaxLvlpDay.png)  
 
 
-#### Tame Mossley - Maximume river Levels per day - per week.  
+#### Tame Mossley - Maximum river Levels per day - per week.  
 
-![alt tag](charts/TameMossleyMaxLvlpDay-week.png)  
+![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
 
 ### Tame Mossley - Change in Average river Levels per day.  
 
-![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
+![alt tag](charts/TameMossleyMaxLvlpDay-week.png)  
 
 
 #### North West England Rainfall level (mm) per Month.   
