@@ -5,7 +5,7 @@
 
 ### Summery
 
-The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to indicate danger.
+The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 300cm to indicate flood danger.
 
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
@@ -13,7 +13,7 @@ The long term analysis of North west rainfall shows there is a significant risk 
 
 ### Method
 
-Gauge data for Uppermill Tame river was obtained from :   [Ref1] : riverlevels.uk
+Gauge data for Mossley Tame river was obtained from :   [Ref1] : riverlevels.uk
 
 This data contains an average level for the day and a maximum and minimum level for the day.  
 
