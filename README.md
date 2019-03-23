@@ -72,7 +72,7 @@ This chart shows the maximum river levels per day.
 
 #### Tame Mossley - Maximum river Levels per day - per week.  
 
-![alt tag](charts/TameMossleyAvLvlpDay-pWeek.png)  
+![alt tag](charts/TameMossleyAvLvlpDay.png)  
 
 ### Tame Mossley - Change in Average river Levels per day.  
 
