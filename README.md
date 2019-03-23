@@ -12,6 +12,18 @@ The long term analysis of North west rainfall shows there is a significant risk 
 
 The flood event on 16-3-2013 coincides with a huge flood reading at Uppermill, which means the maximum flood level reading needs reviewing.
 
+Fro analysis chart of the rate of change of daily maximum river level at Mossley.
+
+It can be clearly observed that the rate of change of the average level has remain steady around 60cm cumulative daily rate of change per week.
+
+Whereas the Maximum Rate of change has linearly increased over the monitoring period, apart from the 2013 flood anomaly.
+
+This shows the rate river level has got higher from 600 (cm Change per day per week) to over 800  (cm/d/w)
+
+i.e a increase in speed of floods of 125%. i.e. Since the level of rain is currently normal to low, this increase can only be accounted for by a reduction of rainfall soak.
+
+note : This is a daily reading so, real flood time speeds may changing by an even greater amount.
+
 
 ### Method
 
@@ -32,6 +44,12 @@ Rain data from [Ref3] was analysed and compared with flood levels.
 The recent flood condition of the 17/3/2019 was the latest and also a new daily record level. 
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
+
+
+#### Tame river Mossley , Rate of change of river level, per week
+
+![alt tag](charts/TameMossleyMaxLvl.ChangeRate.pWeek.png)  
+
 
 
 #### Tame river, Flood level 22/3/2019 flood level incident
