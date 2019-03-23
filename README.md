@@ -10,6 +10,8 @@ The long term river Tame level data shows the Tame has flood risk levels on a co
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
 
+The flood event on 16-3-2013 coincides with a huge flood reading at Uppermill, which means the maximum flood level reading needs reviewing.
+
 
 ### Method
 
