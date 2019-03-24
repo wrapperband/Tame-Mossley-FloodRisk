@@ -24,7 +24,7 @@ i.e a increase in speed of floods of 125%. i.e. Since the level of rain is curre
 
 note : This is a daily reading so, real flood time speeds may changing by an even greater amount.
 
-The flood in Mossley on 11/9/2017 indicates the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
+The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
 
 
 ### Method
@@ -65,7 +65,7 @@ There was a warning of the flood the previous day ~80 cm level, building up to t
 
 #### Tame River - Number of days at each level  2012 - 2019
 
-![alt tag](charts/TameMossleyDaysAtLevel.png)  
+![alt tag](charts/TameMossleyDaysAtLevel2.png)  
 
 
 ### Conclusions :
@@ -81,6 +81,8 @@ Raw data from the Tame may be examined, once it is released, to measure any incr
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.  
 
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
+
+The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
 
 
 ### Results and charts :
