@@ -167,7 +167,11 @@ The cascade feeds the reservoir at Dovestones.
 
 Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.
 
-Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.
+#### Floods, Mossley Micklehurst 2017 [Ref11]
+
+![alt tag](FloodImages/mossleyfloods11.9.2017.png)  
+
+
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5145  
 [Ref2] : https://riverlevels.uk/tame-mossley-waggon-road#.XJT8lEPLeV4  
@@ -178,3 +182,5 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref7] : http://www.saddleworthlife.com/floods-bring-chaos-to-parts-of-saddleworth/
 [Ref8] : Flood November 2015 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781
 [Ref9] : Flood 2016 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781
+[Ref10] : Flood 2012 : Dovestones Greenfield : http://www.saddleworthlife.com/13239/
+[Ref11] : https://planetradio.co.uk/hits-radio/manchester/news/torrential-rain-causes-flooding-tameside/
