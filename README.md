@@ -66,6 +66,8 @@ Quote "A friend has just tweeted that the tunnel near Stalybridge is flooded and
 
 [Ref8] Homes were destroyed just downstream of Mossley in Stalybridge.
 
+[Ref12] Flood damage to school in Greenfield 2017
+
 
     Flood Mossley 26th December 2015 : Gauge reading of 295 cm  
 
@@ -184,3 +186,4 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref9] : Flood 2016 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781
 [Ref10] : Flood 2012 : Dovestones Greenfield : http://www.saddleworthlife.com/13239/
 [Ref11] : https://planetradio.co.uk/hits-radio/manchester/news/torrential-rain-causes-flooding-tameside/
+[Ref12] : https://www.oldham-chronicle.co.uk/news-features/8/news-headlines/100868/deep-trouble
