@@ -24,6 +24,8 @@ i.e a increase in speed of floods of 125%. i.e. Since the level of rain is curre
 
 note : This is a daily reading so, real flood time speeds may changing by an even greater amount.
 
+The flood in Mossley on 11/9/2017 indicates the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
+
 
 ### Method
 
@@ -44,6 +46,10 @@ Rain data from [Ref3] was analysed and compared with flood levels.
 The recent flood condition of the 17/3/2019 was the latest and also a new daily record level. 
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
+
+Flood Mossley 11th September 2017 : Max Gauge reading : 240 cm  
+
+There was a warning of the flood the previous day ~80 cm level, building up to the flood over 4 days. 
 
 
 #### Tame river Mossley , Rate of change of river level, per week
@@ -118,3 +124,4 @@ This chart shows the maximum river levels per day.
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5145  
 [Ref2] : https://riverlevels.uk/tame-mossley-waggon-road#.XJT8lEPLeV4  
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
+[Ref4] : https://tamesidereporter.com/2017/09/mossley-hit-by-flash-floods-again-after-torrential-rain/
