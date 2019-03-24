@@ -47,13 +47,25 @@ The recent flood condition of the 17/3/2019 was the latest and also a new daily 
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
 
-Flood Mossley 11th September 2017 : Max Gauge reading : 240 cm  
+    Flood Mossley 11th September 2017 : Max Gauge reading : 240 cm  
 
 There was a warning of the flood the previous day ~80 cm level, building up to the flood over 4 days. 
 
-Flood Mossley 21st November 2016 : Gauge reading of 298 cm  
+This flood shows the high danger of relying on drains and culverts, which get blocked claimed as a partial cause of the flood..
+
+
+    Flood Mossley 21st November 2016 : Gauge reading of 298 cm  
 
 Despite major floods - gauge warning level of 330cm was not reached. Previous daily maximum levels of 100cm gave warning of the flood. The flood continued with levels of 200cm.
+
+Ironically the 26th December 2015 flood report was released a few days earlier on the 30th-10-2016 [Ref6]
+
+    Flood Mossley 26th December 2015 : Gauge reading of 295 cm  
+
+Again, the gauge warning level was not triggered. Warning of the flood was given the day before with max levels of ~140cm
+
+River levels of > 140cm are flood warning levels.
+
 
 
 
@@ -133,3 +145,4 @@ This chart shows the maximum river levels per day.
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
 [Ref4] : https://tamesidereporter.com/2017/09/mossley-hit-by-flash-floods-again-after-torrential-rain/
 [Ref5] : 21st/11/2016 : https://www.bbc.co.uk/news/av/uk-england-manchester-38059186/heavy-rain-and-strong-winds-cause-flooding-in-mossley
+[Ref6] : Flood 26th December 2015 : https://www.greatermanchester-ca.gov.uk/media/1261/boxing-day-flood-report.pdf
