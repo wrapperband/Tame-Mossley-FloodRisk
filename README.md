@@ -91,7 +91,7 @@ River levels of > 140cm are flood warning levels.
 
 #### Tame River - Number of days at each level  2012 - 2019
 
-![alt tag](charts/TameMossleyDaysAtLevel2.png)  
+![alt tag](charts/TameMossleyDaysAtLevel.2.png)  
 
 
 ### Conclusions :
