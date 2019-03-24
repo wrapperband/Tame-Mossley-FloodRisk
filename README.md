@@ -182,7 +182,7 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref5] : 21st/11/2016 : https://www.bbc.co.uk/news/av/uk-england-manchester-38059186/heavy-rain-and-strong-winds-cause-flooding-in-mossley  
 [Ref6] : Flood 26th December 2015 : https://www.greatermanchester-ca.gov.uk/media/1261/boxing-day-flood-report.pdf  
 [Ref7] : http://www.saddleworthlife.com/floods-bring-chaos-to-parts-of-saddleworth/  
-[Ref8] : Flood November 2015 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781 
+[Ref8] : Flood November 2015 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781  
 [Ref9] : Flood 2016 : https://www.manchestereveningnews.co.uk/news/greater-manchester-news/flooding-millbrook-stalybridge-tameside-houses-12213781  
 [Ref10] : Flood 2012 : Dovestones Greenfield : http://www.saddleworthlife.com/13239/  
 [Ref11] : https://planetradio.co.uk/hits-radio/manchester/news/torrential-rain-causes-flooding-tameside/  
