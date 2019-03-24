@@ -51,6 +51,11 @@ Flood Mossley 11th September 2017 : Max Gauge reading : 240 cm
 
 There was a warning of the flood the previous day ~80 cm level, building up to the flood over 4 days. 
 
+Flood Mossley 21st November 2016 : Gauge reading of 298 cm  
+
+Despite major floods - gauge warning level of 330cm was not reached. Previous daily maximum levels of 100cm gave warning of the flood. The flood continued with levels of 200cm.
+
+
 
 #### Tame river Mossley , Rate of change of river level, per week
 
@@ -82,7 +87,7 @@ It may also be possible to extract more information from the daily data by cross
 
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
 
-The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
+The flood in Mossley on 11/9/2017 and 21st/11/2016 both show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
 
 
 ### Results and charts :
@@ -127,3 +132,4 @@ This chart shows the maximum river levels per day.
 [Ref2] : https://riverlevels.uk/tame-mossley-waggon-road#.XJT8lEPLeV4  
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
 [Ref4] : https://tamesidereporter.com/2017/09/mossley-hit-by-flash-floods-again-after-torrential-rain/
+[Ref5] : 21st/11/2016 : https://www.bbc.co.uk/news/av/uk-england-manchester-38059186/heavy-rain-and-strong-winds-cause-flooding-in-mossley
