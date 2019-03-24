@@ -157,7 +157,17 @@ This chart shows the maximum river levels per day.
 ![alt tag](FloodImages/FloodDamage2016-Destroyed-gardens-of-flooded-cottages-in-Millbrook.Stalybridge.png)  
 
 
+#### Dovestones culverts over whellemed by 2012 flood [Ref10]
 
+![alt tag](FloodImages/Dovestones-culverts-being-over-whellmed-during-a-flood-.jpg)  
+
+These were taken during the heavy rain last Friday, and show a ferocious amount of water coming down the cascade at Ashway in Greenfield.
+
+The cascade feeds the reservoir at Dovestones.
+
+Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.
+
+Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5145  
 [Ref2] : https://riverlevels.uk/tame-mossley-waggon-road#.XJT8lEPLeV4  
