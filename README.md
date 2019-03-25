@@ -7,7 +7,7 @@
 
 The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 330cm to indicate flood danger.
 
-Flood Danger : The North West river basin district Flood Risk Management Plan 2015 to 2021 [Ref17] says of Mossley :
+Flood Danger : The North West river basin district Flood Risk Management Plan 2015 to 2021 [Ref21] says of Mossley :
 
 #### Conclusions for the Greater Manchester Flood Risk Area : 
 
@@ -33,7 +33,7 @@ note : This is a daily reading so, real flood time speeds may changing by an eve
 The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
 
 
-#### Planner should be taking action as designated by the Environment Agency report [Ref17]
+#### Planner should be taking action as designated by the Environment Agency report [Ref21]
 
     11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.
 
