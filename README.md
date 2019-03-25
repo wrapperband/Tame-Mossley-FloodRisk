@@ -116,6 +116,11 @@ Data could also be cross related to historical developments levels in the area, 
 
 The flood in Mossley on 11/9/2017 and 21st/11/2016 both show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
 
+There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.
+
+Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.
+
+
 
 ### Results and charts :
 
@@ -194,6 +199,11 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref11] : https://planetradio.co.uk/hits-radio/manchester/news/torrential-rain-causes-flooding-tameside/  
 [Ref12] : https://www.oldham-chronicle.co.uk/news-features/8/news-headlines/100868/deep-trouble  
 [Ref13] : Uppermill Flood analysis : https://github.com/wrapperband/Tame-Uppermill-FloodRisk
-[Ref14] : Flood Assessment software Open source terrain analysis doftware : https://github.com/arijitsaha/FloodRisk
+[Ref14] : Flood Assessment software Open source terrain analysis software : https://github.com/arijitsaha/FloodRisk
 [Ref14] : Open Condition Monitoring : https://github.com/wrapperband/Open-Condition-Monitoring
+[Ref15] : Related flood danger / cause in hill areas : Wall collapse : http://www.mossleycorrespondent.co.uk/?p=3225
+[Ref16] : Related flood danger / cause : Mill Collapse : https://www.flickr.com/photos/21913923@N03/2696179413
+[Ref17] : "Mystery" Mill collapses (after heavy rain 20th July 2008) : https://www.oldham-chronicle.co.uk/news-features/8/news-headlines/11932/mystery-as-old-mill-collapses
+[Ref18] : Related flood danger / cause : Mill Collapse : http://www.stalybridgecorrespondent.co.uk/2018/02/10/homes-evacuated-following-mill-collapse-in-stalybridge/
+
 
