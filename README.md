@@ -11,7 +11,7 @@ Flood Danger : The North West river basin district Flood Risk Management Plan 20
 
 #### Conclusions for the Greater Manchester Flood Risk Area  [Ref21] :     
 
-3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous.  
+*3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous.*  
 
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.  
@@ -35,7 +35,7 @@ The flood in Mossley on 11/9/2017 show that the flood warning level should be de
 
 #### Planner should be taking action as designated by the Environment Agency report [Ref21]  
 
-11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.  
+*11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, **planning policies**, use of ‘worst case’ scenarios, development of contingency plans, and some detailed analysis.*  
 
 
 ### Method  
@@ -70,9 +70,9 @@ Despite major floods - gauge warning level of 330cm was not reached. Previous da
 
 Ironically the 26th December 2015 flood report was released a few days earlier on the 30th-10-2016 [Ref6]  
 
-Quote "The flooding Stalybridge and Mossley was horrendous for the area. A lot of houses damaged by the torrential rain and floods. Was a nightmare" 
+*Quote "The flooding Stalybridge and Mossley was horrendous for the area. A lot of houses damaged by the torrential rain and floods. Was a nightmare"* 
 
-Quote "A friend has just tweeted that the tunnel near Stalybridge is flooded and so they're stuck on the train there."  
+*Quote "A friend has just tweeted that the tunnel near Stalybridge is flooded and so they're stuck on the train there."*  
 
 [Ref8] Homes were destroyed just downstream of Mossley in Stalybridge. 
 
@@ -118,7 +118,7 @@ The height of floods is historically high, whilst rainfall and level are histori
 
 There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.  
 
-Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.  
+*Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.*  
 
 
 
@@ -199,7 +199,7 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 
 #### Mill collapse adjacent to river July 2008  [Ref17]
 
-Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.  
+*Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.*  
 
 ![alt tag](FloodImages/CarrMillCollapseJuly2008.png)  
 
