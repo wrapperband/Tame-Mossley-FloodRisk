@@ -194,4 +194,6 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref11] : https://planetradio.co.uk/hits-radio/manchester/news/torrential-rain-causes-flooding-tameside/  
 [Ref12] : https://www.oldham-chronicle.co.uk/news-features/8/news-headlines/100868/deep-trouble  
 [Ref13] : Uppermill Flood analysis : https://github.com/wrapperband/Tame-Uppermill-FloodRisk
+[Ref14] : Flood Assessment software Open source terrain analysis doftware : https://github.com/arijitsaha/FloodRisk
+[Ref14] : Open Condition Monitoring : https://github.com/wrapperband/Open-Condition-Monitoring
 
