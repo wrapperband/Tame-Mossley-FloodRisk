@@ -28,7 +28,7 @@ This shows the rate that the river level goes up - has got higher from 600 (cm C
 
 i.e. An increase in "Speed of floods" or "Run off" of 125%. 
 
-i.e. Since the level of rainfall is currently normal to low, this increase in flood level speed can only be accounted for by a reduction of rainfall soak.  
+i.e. Since the level of rainfall is currently normal to low, this increase in flood level speed can only be accounted for by a reduction of rainfall soak in the Tame flood plain and surrounding catchment area.  
 
 note : This is a daily reading so, "real time" flood speeds may changing by an even greater amount. It is imperative to analyse the real time data for increase in flood angle against rainfall. 
 
@@ -37,7 +37,7 @@ The flood in Mossley on 11/9/2017 show that the flood warning level should be de
 
 #### Planner should be taking action as designated by the Environment Agency report [Ref21]  
 
-*11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, **planning policies**, use of ‘worst case’ scenarios, development of contingency plans, and some detailed analysis.*  
+*Quote : 11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, **planning policies**, use of ‘worst case’ scenarios, development of contingency plans, and some detailed analysis.*  
 
 
 ### Method  
