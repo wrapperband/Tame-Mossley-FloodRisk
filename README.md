@@ -11,7 +11,7 @@ Flood Danger : The North West river basin district Flood Risk Management Plan 20
 
 #### Conclusions for the Greater Manchester Flood Risk Area : 
 
-3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous
+    3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous
 
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
@@ -31,6 +31,11 @@ i.e a increase in speed of floods of 125%. i.e. Since the level of rain is curre
 note : This is a daily reading so, real flood time speeds may changing by an even greater amount.
 
 The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
+
+
+#### Planner should be taking action as designated by the Environment Agency report [Ref17]
+
+    11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.
 
 
 ### Method
