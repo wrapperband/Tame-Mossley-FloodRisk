@@ -7,6 +7,12 @@
 
 The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 330cm to indicate flood danger.
 
+Flood Danger : The North West river basin district Flood Risk Management Plan 2015 to 2021 [Ref17] says of Mossley :
+
+#### Conclusions for the Greater Manchester Flood Risk Area : 
+
+3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous
+
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
 
