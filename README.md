@@ -117,6 +117,12 @@ It is very concerning to observe that most of the new "Maximum river level recor
 
 The height of floods is historically high, whilst rainfall and level are historically normal to low.
 
+There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.
+
+Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.
+
+
+
 ### Further work : 
 
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
@@ -126,10 +132,6 @@ It may also be possible to extract more information from the daily data by cross
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
 
 The flood in Mossley on 11/9/2017 and 21st/11/2016 both show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.
-
-There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.
-
-Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.
 
 
 
