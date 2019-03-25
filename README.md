@@ -158,31 +158,39 @@ This chart shows the maximum river levels per day.
 
 
 
-### Flood Images
+### Flood Images  
 
-#### Well-i-hole Farm campsite is evacuated and animals rescued. Picture: Stuart Littleford.
+#### Well-i-hole Farm campsite is evacuated and animals rescued. Picture: Stuart Littleford.  
 
 ![alt tag](FloodImages/Well-i-hole-Farm-campsite-is-evacuated-and-animals-rescued.Pic.StuartLittleford.jpg)  
 
 
-#### Destroyed gardens of flooded cottages in Millbrook, Stalybridge [Ref9]
+#### Destroyed gardens of flooded cottages in Millbrook, Stalybridge [Ref9]  
 
 ![alt tag](FloodImages/FloodDamage2016-Destroyed-gardens-of-flooded-cottages-in-Millbrook.Stalybridge.png)  
 
 
-#### Dovestones culverts over whellemed by 2012 flood [Ref10]
+#### Dovestones culverts over whellemed by 2012 flood [Ref10]  
 
 ![alt tag](FloodImages/Dovestones-culverts-being-over-whellmed-during-a-flood-.jpg)  
 
-These were taken during the heavy rain last Friday, and show a ferocious amount of water coming down the cascade at Ashway in Greenfield.
+These were taken during the heavy rain last Friday, and show a ferocious amount of water coming down the cascade at Ashway in Greenfield.  
 
-The cascade feeds the reservoir at Dovestones.
+The cascade feeds the reservoir at Dovestones.  
 
-Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.
+Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Mountain Rescue Team.  
 
 #### Floods, Mossley Micklehurst 2017 [Ref11]
 
 ![alt tag](FloodImages/mossleyfloods11.9.2017.png)  
+
+
+#### Mill collapse adjacent to river July 2008  [Ref17]
+
+Quote "Firemen ruled out an explosion, but residents believed the roof has been designed to collect water — and that the building could have collapsed under the weight of recent heavy rain.
+
+![alt tag](FloodImages/CarrMillCollapseJuly2008.png)  
+
 
 
 
