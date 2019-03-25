@@ -42,9 +42,11 @@ The flood in Mossley on 11/9/2017 show that the flood warning level should be de
 
 ### Method  
 
+In line with Open Condition Monitoring an analysis of publically available River Gauge information was performed. [Ref22 : OCM ];[Ref23 :  Maintenance Techniques and Analysis]
+
 Gauge data for Mossley Tame river was obtained from :   [Ref1] : riverlevels.uk  
 
-This data contains an average level for the day and a maximum and minimum level for the day.  
+This data contains an average river level for the day and a maximum and minimum level for the day.  
 
 The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]  
 
@@ -184,7 +186,7 @@ This chart shows the maximum river levels per day.
 ![alt tag](FloodImages/FloodDamage2016-Destroyed-gardens-of-flooded-cottages-in-Millbrook.Stalybridge.png)  
 
 
-#### Dovestones culverts over whellemed by 2012 flood [Ref10]  
+#### Dovestones culverts over whelmed by 2012 flood [Ref10]  
 
 ![alt tag](FloodImages/Dovestones-culverts-being-over-whellmed-during-a-flood-.jpg)  
 
@@ -227,7 +229,11 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref16] : Related flood danger / cause : Mill Collapse : https://www.flickr.com/photos/21913923@N03/2696179413  
 [Ref17] : "Mystery" Mill collapses (after heavy rain 20th July 2008) : https://www.oldham-chronicle.co.uk/news-features/8/news-headlines/11932/mystery-as-old-mill-collapses  
 [Ref18] : Related flood danger / cause : Mill Collapse : http://www.stalybridgecorrespondent.co.uk/2018/02/10/homes-evacuated-following-mill-collapse-in-stalybridge/  
-[Ref19] Landslide delays trains Mossley Nov 2012 (During a flood) :  https://www.railforums.co.uk/threads/landslide-between-mossley-and-stalybridge-yesterday.74650/  
-[Ref20] Concerns of Aberfan-type disaster in Mossley May 2005 : https://www.manchestereveningnews.co.uk/news/local-news/landslide-homes-fear-1149189  
-[Ref21] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
+[Ref19] : Landslide delays trains Mossley Nov 2012 (During a flood) :  https://www.railforums.co.uk/threads/landslide-between-mossley-and-stalybridge-yesterday.74650/  
+[Ref20] : Concerns of Aberfan-type disaster in Mossley May 2005 : https://www.manchestereveningnews.co.uk/news/local-news/landslide-homes-fear-1149189  
+[Ref21] : North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
+[Ref22] : Open Condition Monitoring (OCM) :  https://github.com/wrapperband/Open-Condition-Monitoring.  
+[Ref23] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
+
+
 
