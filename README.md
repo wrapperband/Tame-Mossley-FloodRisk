@@ -16,19 +16,21 @@ Flood Danger : The North West river basin district Flood Risk Management Plan 20
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.  
 
-The flood event on 16-3-2013 coincides with a huge flood reading at Uppermill, which means the maximum flood level reading needs reviewing.  
+The flood event on 16-3-2013 coincides with a huge flood reading at Uppermill, which means the maximum flood level reading needs reviewing.  i.e Some "flooding/level" incident occurred as it was recorded on 2 independent gauges. This extra high reading isn't recorded as a highest ever level, yet it may have been a real event.
 
-Fro analysis chart of the rate of change of daily maximum river level at Mossley.  
+From analysis of the chart of the rate of change of daily maximum river level at Mossley.  
 
 It can be clearly observed that the rate of change of the average level has remain steady around 60cm cumulative daily rate of change per week.  
 
 Whereas the Maximum Rate of change has linearly increased over the monitoring period, apart from the 2013 flood anomaly.  
 
-This shows the rate river level has got higher from 600 (cm Change per day per week) to over 800  (cm/d/w).  
+This shows the rate that the river level goes up - has got higher from 600 (cm Change per day per week) to over 800  (cm/d/w).  
 
-i.e a increase in speed of floods of 125%. i.e. Since the level of rain is currently normal to low, this increase can only be accounted for by a reduction of rainfall soak.  
+i.e. An increase in "Speed of floods" or "Run off" of 125%. 
 
-note : This is a daily reading so, real flood time speeds may changing by an even greater amount. 
+i.e. Since the level of rainfall is currently normal to low, this increase in flood level speed can only be accounted for by a reduction of rainfall soak.  
+
+note : This is a daily reading so, "real time" flood speeds may changing by an even greater amount. It is imperative to analyse the real time data for increase in flood angle against rainfall. 
 
 The flood in Mossley on 11/9/2017 show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.  
 
