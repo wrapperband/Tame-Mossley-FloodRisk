@@ -37,12 +37,12 @@ The flood in Mossley on 11/9/2017 show that the flood warning level should be de
 
 #### Planner should be taking action as designated by the Environment Agency report [Ref21]  
 
-*Quote : 11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, **planning policies**, use of ‘worst case’ scenarios, development of contingency plans, and some detailed analysis.*  
+*Quote : 11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working,* **planning policies**, *use of ‘worst case’ scenarios, development of contingency plans, and some detailed analysis.*  
 
 
 ### Method  
 
-In line with Open Condition Monitoring an analysis of publically available River Gauge information was performed. [Ref22 : OCM ];[Ref23 :  Maintenance Techniques and Analysis]
+In line with Open Condition Monitoring an analysis of publically available River Gauge information was performed. [Ref14 : OCM ];[Ref22 :  Maintenance Techniques and Analysis]
 
 Gauge data for Mossley Tame river was obtained from :   [Ref1] : riverlevels.uk  
 
@@ -89,7 +89,13 @@ Again, the gauge warning level was not triggered. Warning of the flood was given
 
 River levels of > 140cm are flood warning levels.  
 
+    Tame river Mossley , Rate of change of river level, per week 2012 - 2019
 
+Rate of change of river level, per week chart shows the rate of change of maximum river levels at Mossley. When compared to the rainfall charts, which show low or normal rainfall, the charts shows an upward trend of the change in river levels.
+
+i.e. The river level is going up visibly faster, on the low resolution daily chart.
+
+Simply put, the peaks of river level rise rate are generally increasing, when they should be going down.
 
 
 #### Tame river Mossley , Rate of change of river level, per week
@@ -232,8 +238,7 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref19] : Landslide delays trains Mossley Nov 2012 (During a flood) :  https://www.railforums.co.uk/threads/landslide-between-mossley-and-stalybridge-yesterday.74650/  
 [Ref20] : Concerns of Aberfan-type disaster in Mossley May 2005 : https://www.manchestereveningnews.co.uk/news/local-news/landslide-homes-fear-1149189  
 [Ref21] : North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
-[Ref22] : Open Condition Monitoring (OCM) :  https://github.com/wrapperband/Open-Condition-Monitoring.  
-[Ref23] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
+[Ref22] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
 
 
 
