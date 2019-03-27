@@ -97,6 +97,15 @@ i.e. The river level is going up visibly faster, on the low resolution daily cha
 
 Simply put, the peaks of river level rise rate are generally increasing, when they should be going down.
 
+This charts shows extracted high  levels of river rate of change in level, above 400cm/day, to clearly show how the rate of level change has increased.
+
+
+
+#### Tame river Mossley , Rate of change of river level, per Month above 400cm change Per Month.
+
+![alt tag](charts/TameMossleyRateofLevelChangePerMonthGrtr400cm.png)  
+
+
 
 #### Tame river Mossley , Rate of change of river level, per week
 
