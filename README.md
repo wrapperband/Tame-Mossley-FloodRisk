@@ -123,6 +123,13 @@ This charts shows extracted high  levels of river rate of change in level, above
 ![alt tag](charts/TameMossleyMaxLvl.ChangeRate.pWeek.png)  
 
 
+This chart shows the acceleration of river level, or how quickly the level change speed changes. It shows lower levels of acceleration at firts, increasing through 2015 - 2016, and reamaining high during the relatively low rainfall of 2018 - 2019.
+
+
+#### Tame river Mossley, Acceleration of river levels increase from 1012 - 2019, over 200 (cm/d2)
+
+![alt tag](charts/TameMossleyAccelerationofLevelChangePerDayGtr200.png)  
+
 
 #### Tame river, River level 22/3/2019, Warning and Maximum recorded level
 
