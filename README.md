@@ -5,6 +5,8 @@
 
 ### Summery  
 
+**Accepted there is a Flood risk from Tame in Mossley**
+
 The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to 330cm to indicate flood danger.  
 
 Flood Danger : The North West river basin district Flood Risk Management Plan 2015 to 2021 [Ref21] says of Mossley :  
@@ -13,10 +15,13 @@ Flood Danger : The North West river basin district Flood Risk Management Plan 20
 
 *Quote : 3.Steeper ground in areas such as Ramsbottom, Littleborough, Delph and Mossley leads to fast flowing surface water and rapid inundation, both of which can be hazardous.*  
 
+**Historically, current rainfall levels are low, so flooding could be higher**
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.  
 
 The flood event on 16-3-2013 coincides with a huge flood reading at Uppermill, which means the maximum flood level reading needs reviewing.  i.e Some "flooding/level" incident occurred as it was recorded on 2 independent gauges. This extra high reading isn't recorded as a highest ever level, yet it may have been a real event.
+
+**Rate of change of flood levels is increasing**
 
 From analysis of the chart of the rate of change of daily maximum river level at Mossley.  
 
@@ -57,8 +62,11 @@ Rain data from [Ref3] was analysed and compared with flood levels.
 
 ### Observations :  
 
+**Flood levels are increasing**
 
 The recent flood condition of the 17/3/2019 was the latest and also a new daily record level.  
+
+**Analysis of Mossley Tame River Levels against (hazardous) floods**
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.  
 
@@ -91,17 +99,20 @@ River levels of > 140cm are flood warning levels.
 
     Tame river Mossley , Rate of change of river level, per week 2012 - 2019
 
-Rate of change of river level, per week chart shows the rate of change of maximum river levels at Mossley. When compared to the rainfall charts, which show low or normal rainfall, the charts shows an upward trend of the change in river levels.
+    
+**Rate of River Level change is increasing**    
+    
+Rate of change of river level, per week chart shows the rate of change of maximum river levels at Mossley. When compared to the rainfall charts, which show low or normal rainfall, the charts shows an upward trend of the change in river levels.  
 
-i.e. The river level is going up visibly faster, on the low resolution daily chart.
+i.e. The river level is going up visibly faster, on the low resolution daily chart.  
 
-Simply put, the peaks of river level rise rate are generally increasing, when they should be going down.
+Simply put, the peaks of river level rise rate are generally increasing, when they should be going down.  
 
-This charts shows extracted high  levels of river rate of change in level, above 400cm/day, to clearly show how the rate of level change has increased.
+This charts shows extracted high  levels of river rate of change in level, above 400cm/day, to clearly show how the rate of level change has increased.  
 
 
 
-#### Tame river Mossley , Rate of change of river level, per Month above 400cm change Per Month.
+#### Tame river Mossley , Rate of change of river level, per Month above 400cm change Per Month.  
 
 ![alt tag](charts/TameMossleyRateofLevelChangePerMonthGrtr400cm.png)  
 
@@ -131,9 +142,15 @@ This charts shows extracted high  levels of river rate of change in level, above
 
 ### Conclusions :  
 
+**Maximum river events are recent and increasing**
+
 It is very concerning to observe that most of the new "Maximum river level recorded events" have happened since December 2015.  
 
+**Climate change does not account for river changes**
+
 The height of floods is historically high, whilst rainfall and level are historically normal to low.  
+
+**Flood hazards and danger in Mossley is High**
 
 There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.  
 
@@ -143,11 +160,19 @@ There is significant danger, buildings have fell down [Ref17] : July 2008 Mill c
 
 ### Further work : 
 
+**Monitor raw data not daily avaerages**
+
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
+
+**Cross reference real time rain / rate of rain fall**
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.  
 
+**Cross reference river levels to building developments**
+
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
+
+**Review Mossley Waggon gauge river warning and alarm levels**
 
 The flood in Mossley on 11/9/2017 and 21st/11/2016 both show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.  
 
