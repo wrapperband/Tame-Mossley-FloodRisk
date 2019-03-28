@@ -110,14 +110,21 @@ i.e. The river level is going up visibly faster, on the low resolution daily cha
 
 Simply put, the peaks of river level rise rate are generally increasing, when they should be going down.  
 
-This charts shows extracted high  levels of river rate of change in level, above 400cm/day, to clearly show how the rate of level change has increased.  
 
+This charts shows extracted high  levels of river rate of change in level, above 400cm/day, to clearly show how the rate of level change has increased.  
 
 
 #### Tame river Mossley , Rate of change of river level, per Month above 400cm change Per Month.  
 
 ![alt tag](charts/TameMossleyRateofLevelChangePerMonthGrtr400cm.png)  
 
+
+This charts shows all the high upward velocity or rate of level level increase events. The events are shown averaged over a month to clearly show how flooding events are getting faster, longer and more frequent.
+
+
+#### Tame river Mossley , Rate of change of river level upwards and Gtr 50 cm/d, per Month.  
+
+![alt tag](charts/TameMossleyVelocityofUpwardLevelChangePerMonthGtr50pDay.png)  
 
 
 #### Tame river Mossley , Rate of change of river level, per week
@@ -133,19 +140,20 @@ This chart shows the acceleration of river level, or how quickly the level chang
 ![alt tag](charts/TameMossleyAccelerationofLevelChangePerDayGtr200.png)  
 
 
-#### Tame river, River level 22/3/2019, Warning and Maximum recorded level
+#### Tame river  Mossley, River level 22/3/2019, Warning and Maximum recorded level
 
 ![alt tag](charts/TameMossleyFloodLvl-HighestLvl.png)  
 
 
-#### Tame River - Number of days at each level  2012 - 2019
+#### Tame River Mossley - Number of days at each level  2012 - 2019
 
 ![alt tag](charts/TameMossleyDaysAtLevel.2.png)  
 
 
-#### Tame River - River Tame high level 17/3/2019
+#### Tame River Mossley - River Tame high level 17/3/2019
 
 ![alt tag](charts/17-3-2019-DailyChart-Riverlevels.uk-Tame-mossley-waggon-road.png)  
+
 
 
 
