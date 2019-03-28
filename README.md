@@ -47,17 +47,19 @@ The flood in Mossley on 11/9/2017 show that the flood warning level should be de
 
 ### Method  
 
-In line with Open Condition Monitoring an analysis of publically available River Gauge information was performed. [Ref14 : OCM ];[Ref22 :  Maintenance Techniques and Analysis]
+In line with Open Condition Monitoring an analysis of public ally available River Gauge information was performed. [Ref14 : OCM ];[Ref22 :  Maintenance Techniques and Analysis]
 
 Gauge data for Mossley Tame river was obtained from :   [Ref1] : riverlevels.uk  
 
 This data contains an average river level for the day and a maximum and minimum level for the day.  
 
+The river level data was inspected and a number of incorrect gauge readings were deleted. These were identified by the number 99.9999 and were understood to be when the gauge had failed.  
+
 The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]  
 
 The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.  
 
-Rain data from [Ref3] was analysed and compared with flood levels.  
+Rain data from [Ref3] was checked, analysed and compared with flood levels.  
 
 
 ### Observations :  
