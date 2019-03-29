@@ -230,6 +230,10 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
+#### [Ref23] : Gaugemap river level at Mossley Waggon Rd - last month near flood levels.
+
+![alt tag](charts/TameMossleyMarchNearFlood1Month.png)  
+
 
 ### Flood Images  
 
@@ -290,6 +294,8 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref20] : Concerns of Aberfan-type disaster in Mossley May 2005 : https://www.manchestereveningnews.co.uk/news/local-news/landslide-homes-fear-1149189  
 [Ref21] : North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
 [Ref22] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
+[Ref23] : Gaugemap river level at Mossley Waggon Rd : https://www.gaugemap.co.uk/#!Map/Summary/549/557  
+
 
 
 
