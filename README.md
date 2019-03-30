@@ -167,6 +167,10 @@ It is very concerning to observe that most of the new "Maximum river level recor
 
 The height of floods is historically high, whilst rainfall and level are historically normal to low.  
 
+The recent flood level of the Tame at Uppermill and near flood levels at Mossley - March 2019 occurred with ~75mm of rain per month. In the recent past rain levels for Oldham have been >350mm per Month. Viewing the chart of the recent flood it is apparent that any continuation of the rain on that day would have caused a substantial flood, with higher levels than 1m (0.9m warning).
+
+It was only through abnormal luck and shortness of the bad weather that the recent flood levels of the Tame at Uppermill  March 2019 did not result serious flooding at Uppermill or Mossley.
+
 **Flood hazards and danger in Mossley is High**
 
 There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.  
