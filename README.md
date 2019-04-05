@@ -273,6 +273,40 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 ![alt tag](FloodImages/CarrMillCollapseJuly2008.png)  
 
 
+### Environment agency responce to request to review flood alarms
+
+GMMC122216AB Response attached from the Environment Agency 	
+Fri, 5 Apr 2019 11:35
+GMMC Info Requests (Inforequests.gmmc@environment-agency.gov.uk)To:you Details
+
+
+Thank you for your enquiry which was received on 29/3/19.
+
+We respond to requests under the Freedom of Information Act 2000 and Environmental Information Regulations 2004.
+
+Thank you for your comments in relation to the Flood Warning Levels at Waggon Road.
+
+The Micklehurst area of Mossley which experienced flooding during the dates you have mentioned is currently covered by a Flood Alert only (River Mersey Uplands Catchment). This Flood Alert covers an extensive area of the River Tame and is issued when we expect flooding to low lying lands and roads. We issue this Flood Alert based on a river level of 1.65m being reached at the Woolley Bridge monitoring station further upstream on the River Tame.
+
+The Micklehurst area is not covered by a Flood Warning, which would be issued when we expect flooding to properties. This is because there is currently no river level monitoring station on Staley Brook from which we would be able to issue a Flood Warning. As the Waggon Road monitoring station is on the River Tame downstream of Staley Brook we are unable to issue a Flood Warning from there.
+
+With reference to the dates of flooding you mentioned:
+
+On 11 September 2017, flooding occurred in Mickehurst Road from a culvert collapse on Micklehurst Brook as described in Tameside MBC’s Section 19 investigation report (https://www.tameside.gov.uk/TamesideMBC/media/PublicHealth/FloodResponseMicklehurstAut17.pdf ). Due to the isolated nature of the event the river level did not reach a level at the Woolley Bridge monitoring station to result in a Flood Alert being issued.
+
+On 21 November 2016 when flooding occurred in the Mossley and the wider River Tame area, we issued the Flood Alert as the river level met the criteria to issue this.
+
+
+On 26 December 2015, surface water flooding affected one property in Mossley. During this event the river level did not reach a level at the Woolley Bridge monitoring station to result in a Flood Alert being issued. Also the Flood Warning Service only covers areas at risk of flooding from rivers.
+
+Given the evidence above we have concluded that the current level of the Flood Alert is accurate and we are not proposing to amend it at this time.
+
+Please refer to the Open Government Licence which explains the permitted use of this information.
+
+Please get in touch if you have any further queries or contact us within two months if you’d like us to review the information we have sent.
+
+Email: Inforequests.gmmc@environment-agency.gov.uk
+
 
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5145  
